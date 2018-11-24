@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 ##Description
 
 ## anotehr section by Dany
+
+##copyright section
+coyprighted to author
